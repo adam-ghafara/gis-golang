@@ -1,4 +1,4 @@
-package peda
+package gisgolang
 
 import (
 	"time"
